@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "ChatBox": {
+            "applicationId": "Dk2E6EurVktOeJvV4OK3xqU5pC2TchypzB6ULdGP", 
+            "masterKey": "E2GcURsdxHvpmwnpZ3pFtJq48u7pUlDqXuRn2Tp5"
+        }, 
+        "_default": {
+            "link": "ChatBox"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.16"
+    }
+}
